@@ -11,7 +11,7 @@
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/mshmelly/Born2beroot)](https://github.com/JaeSeoKim/badge42)  
 ### mini_talk  
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/mshmelly/minitalk)](https://github.com/JaeSeoKim/badge42)  
-### fdf  
+### FdF  
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/mshmelly/FdF)](https://github.com/JaeSeoKim/badge42)  
 ### push_swap 
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/mshmelly/push_swap)](https://github.com/JaeSeoKim/badge42)
