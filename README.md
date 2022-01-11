@@ -6,7 +6,7 @@
 | **ft_printf** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/ft_printf"/> | **minitalk** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minitalk"/> |
 | **FDF** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/FdF"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> |
 | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Philosophers"/> | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minishell"/> |
-| **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cub3d"/> | **CPP_Module** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cpp module 08"/>
+| **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cub3d"/> | **CPP_Module** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cpp module"/>
 | **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/NetPractice"/> |
 | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 02"/> | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 03"/> |
 | **Exam Rank 04** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 04"/> | **Exam Rank 05** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 05"/> |
