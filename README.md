@@ -29,7 +29,8 @@
 | **Libft** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Libft"/> | **GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/get_next_line"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Born2beroot"/> | **Printf** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/ft_printf"/> | 
-| **Pipex** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minitalk"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> | 
+| **minitalk** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minitalk"/> | **netwhat** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/netwhat"/> |
+| **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> | 
 | **FDF** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/FdF"/> | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minishell"/> |
 | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Philosophers"/> | **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cub3d"/> | 
 | **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/NetPractice"/> |
