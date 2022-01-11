@@ -24,13 +24,12 @@
 ### CPP_Module
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/mshmelly/cpp-module-08)](https://github.com/JaeSeoKim/badge42)
 
-<img src="https://badge42.herokuapp.com/api/stats/prochell?darkmode=true&privacyEmail=true&privacyCursus=true"/>
-
+<img src="https://badge42.herokuapp.com/api/stats/mshmelly?darkmode=true&privacyEmail=true&privacyCursus=true"/>
 
 | **Libft** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Libft"/> | **GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/get_next_line"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Born2beroot"/> | **Printf** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/ft_printf"/> | 
-| **Pipex** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/pipex"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> | 
+| **Pipex** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minitalk"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> | 
 | **FDF** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/FdF"/> | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minishell"/> |
 | **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Philosophers"/> | **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cub3d"/> | 
 | **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/NetPractice"/> |
