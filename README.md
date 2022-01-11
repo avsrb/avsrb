@@ -21,3 +21,5 @@
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/mshmelly/minishell)](https://github.com/JaeSeoKim/badge42)
 ### cub3D 
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/mshmelly/cub3d)](https://github.com/JaeSeoKim/badge42)
+### CPP_Module
+[![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/mshmelly/cpp-module-08)](https://github.com/JaeSeoKim/badge42)
