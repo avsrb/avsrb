@@ -4,8 +4,8 @@
 | :------------: | :------------: | :------------: | :------------: |
 | **netwhat** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/netwhat"/> | [**Born2beroot**](https://github.com/avsrb/born2beroot) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Born2beroot"/> |
 | [**ft_printf**](https://github.com/avsrb/ft_printf) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/ft_printf"/> | [**minitalk**](https://github.com/avsrb/minitalk) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minitalk"/> |
-| [**FDF**](https://github.com/avsrb/FdF) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/FdF"/> | [**Push_swap**](https://github.com/avsrb/push_swap) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> |
-| [**Philosophers**](https://github.com/avsrb/push_swap) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Philosophers"/> | [**Minishell**](https://github.com/avsrb/Philosophers) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minishell"/> |
+| [**FdF**](https://github.com/avsrb/FdF) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/FdF"/> | [**Push_swap**](https://github.com/avsrb/push_swap) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> |
+| [**Philosophers**](https://github.com/avsrb/Philosophers) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Philosophers"/> | [**Minishell**](https://github.com/avsrb/minishell) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minishell"/> |
 | [**Cub3d**](https://github.com/avsrb/Cub3D) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cub3d"/> | [**CPP_Module**](https://github.com/avsrb/CPP_module) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/CPP Module 08"/>
 | [**NetPractice**]() | <img src="https://badge42.herokuapp.com/api/project/mshmelly/NetPractice"/> |
 | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 02"/> | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 03"/> |
