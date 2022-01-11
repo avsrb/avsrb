@@ -1,6 +1,6 @@
 <img src="https://badge42.herokuapp.com/api/stats/mshmelly?darkmode=true&privacyEmail=true&privacyCursus=true"/>
 
-| **[Libft]** (https://github.com/avsrb/libft)  | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Libft"/> | **GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/get_next_line"/> |
+| **Libft** [](https://github.com/avsrb/libft)  | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Libft"/> | **GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/get_next_line"/> |
 | :------------: | :------------: | :------------: | :------------: |
 | **netwhat** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/netwhat"/> | **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Born2beroot"/> |
 | **ft_printf** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/ft_printf"/> | **minitalk** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minitalk"/> |
