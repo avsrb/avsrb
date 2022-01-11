@@ -1,13 +1,13 @@
 <img src="https://badge42.herokuapp.com/api/stats/mshmelly?darkmode=true&privacyEmail=true&privacyCursus=true"/>
 
-| [**Libft**](https://github.com/avsrb/libft)  | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Libft"/> | **GetNextLine** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/get_next_line"/> |
+| [**Libft**](https://github.com/avsrb/libft)  | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Libft"/> | [**GetNextLine**](https://github.com/avsrb/get_next_line) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/get_next_line"/> |
 | :------------: | :------------: | :------------: | :------------: |
-| **netwhat** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/netwhat"/> | **Born2beroot** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Born2beroot"/> |
-| **ft_printf** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/ft_printf"/> | **minitalk** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minitalk"/> |
-| **FDF** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/FdF"/> | **Push_swap** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> |
-| **Philosophers** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Philosophers"/> | **Minishell** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minishell"/> |
-| **Cub3d** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cub3d"/> | **CPP_Module** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/CPP Module"/>
-| **NetPractice** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/NetPractice"/> |
+| **netwhat** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/netwhat"/> | [**Born2beroot**](https://github.com/avsrb/born2beroot) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Born2beroot"/> |
+| [**ft_printf**](https://github.com/avsrb/ft_printf) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/ft_printf"/> | [**minitalk**](https://github.com/avsrb/minitalk) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minitalk"/> |
+| [**FDF**](https://github.com/avsrb/FdF) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/FdF"/> | [**Push_swap**](https://github.com/avsrb/push_swap) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/push_swap"/> |
+| [**Philosophers**](https://github.com/avsrb/push_swap) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Philosophers"/> | [**Minishell**](https://github.com/avsrb/Philosophers) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/minishell"/> |
+| [**Cub3d**](https://github.com/avsrb/Cub3D) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/cub3d"/> | [**CPP_Module**](https://github.com/avsrb/CPP_module) | <img src="https://badge42.herokuapp.com/api/project/mshmelly/CPP Module"/>
+| [**NetPractice**] | <img src="https://badge42.herokuapp.com/api/project/mshmelly/NetPractice"/> |
 | **Exam Rank 02** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 02"/> | **Exam Rank 03** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 03"/> |
 | **Exam Rank 04** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 04"/> | **Exam Rank 05** | <img src="https://badge42.herokuapp.com/api/project/mshmelly/Exam Rank 05"/> |
 
